@@ -9,7 +9,7 @@ CHANGELOG.md
 .versions
 .idea
 dist
-
+node_modules
 cypress/screenshots
 .angular
 # local env files
